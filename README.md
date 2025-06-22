@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding Gif" width="300" />
+</p>
 
 # 👋 Hi, I'm Eliud 
 
@@ -11,9 +14,9 @@
 
 ### About me
 
-💻I am an indie software developer and entrepreneur with a dream to improve the standards of software used in Africa and around the world. I plan to achieve this by creating high-performance web applications that solve real-life everyday problems. As the lead of Dr Web Kenya, I actively build scalable and efficient solutions using the MERN stack and other modern technologies like Firebase and AI. I deliver tailored digital products that meet the evolving needs of businesses across various industries. My work emphasizes innovation, user friendliness, and long-term value, ensuring every project contributes to client success and growth.
+💻I am an indie software developer and entrepreneur with a dream to improve the standards of software used across Africa and beyond. I achieve this by creating high-performance web applications that solve real-life everyday problems. As the lead of Dr Web Kenya, I actively build these scalable and efficient solutions using the MERN stack and other modern technologies like Firebase and AI. This allows me to deliver tailored digital assests that meet the evolving needs of businesses like handling **M-PESA** payments online. My work emphasizes innovation, user friendliness, and long-term value.
 
-- 💡🔬 I am also keen in the fields of Artificial Intelligence and Machine Learning. I continuously explore how intelligent systems can enhance user experience, automate workflows, and unlock new possibilities in software development. My goal is to integrate smart technologies into modern applications to create solutions that are not just functional—but predictive, adaptive, and transformative.
+- 💡🔬 I am spreading my wings in Artificial Intelligence and Machine Learning. I continuously explore how intelligent systems enhance user experience, automate workflows, and unlock new possibilities in software development. My objective is to integrate smart technologies into modern applications to create solutions that are not just functional—but predictive, adaptive, and transformative.
 
 
 ---
@@ -38,7 +41,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+
 
 ---
 
@@ -51,9 +54,10 @@
 
 ## 🌐 Let's Connect
 
-📫 **Email**: drwebke25@gmail.com  
-🌍 **Portfolio**: https://eliudwaititu.online/
+📫 **Email**: [Send Me an Email](mailto:drwebke25@gmail.com)  
+🌍 **Portfolio**: https://eliudwaititu.online/  
 📱 **Phone**: +254 719 790026
+
 
 ---
 
