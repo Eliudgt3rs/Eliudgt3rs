@@ -55,7 +55,7 @@
 ## 🌐 Let's Connect
 
 📫 **Email**: [Send Me an Email](mailto:drwebke25@gmail.com)  
-🌍 **Portfolio**: https://eliudwaititu.online/  
+🌍 **Portfolio**: www.eliudwaititu.online  
 📱 **Phone**: +254 719 790026
 
 
